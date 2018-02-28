@@ -23,6 +23,3 @@ Gives you the ability to easily watch the movement of certain players. Use this 
   }
 }
 ```
-
-## Image
-![playertracker](https://oxidemod.org/attachments/aeia3uqptdavzmb4v-lota-png.39477/ "Player Tracker Screenshot")
